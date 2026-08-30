@@ -64,3 +64,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# setup-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 9-1「環境構築ハンズオン」で作成した成果物です。
+Laravel Sail と Docker を使って、Tutorial 9〜10 のハンズオンで使う開発環境を構築しました。
+
+## 使用技術
+- PHP 8.x
+- Laravel 10.x
+- Laravel Sail（Docker Compose）
+- MySQL, phpMyAdmin
+
+## 学んだこと
+- 環境構築の方法
+- Laravel Sail を使った Docker ベースの開発環境構築
+- compose.yaml の構造と、phpMyAdmin サービスの追加
+- sail artisan key:generate でアプリケーションキーを生成する役割
+- 
+
+## 動作確認
+ブラウザでphpMYAdminを開けず手間取った。
+
